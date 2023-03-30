@@ -1,4 +1,4 @@
 pandas
 dash
 plotly
-gunicorn==19.7.1
+pip3 install psycopg2 gunicorn && pip3 freeze > requirements.txt
